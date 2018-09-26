@@ -1,3 +1,4 @@
  ## Java Solution Code
  
- Head First Java code 
+ 1. Head First Java code
+ 2. Weather code using Array, for, if  
