@@ -22,7 +22,7 @@ public class Weather{
 	for(int j=0; j<temp.length;j++){
 	if(temp[j]> AverageTemp){
 		AbvAvg++; 
-		System.out.println(days[j] + " is average");
+		System.out.println(days[j] + " is above average");
 	}
 	}
 	System.out.println(" ");
